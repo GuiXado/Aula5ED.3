@@ -10,6 +10,7 @@ A classe PalindromoController no package controller deve ter 2 métodos:
 
 • O método invertePalavra que recebe um String e retorna o String invertido. Os
 métodos push(), pop(), isEmpty() devem ser usados para esse fim;
+
 • O método comparaPalavras, que recebe o String, o String já invertido e retorna um
 boolean (True para Palíndromo e False para Não Palíndromo)
 
